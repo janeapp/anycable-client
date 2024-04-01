@@ -7,6 +7,8 @@ export {
 
 export { Channel } from '@anycable/core'
 
+export { TestCable } from '@anycable/core/testing'
+
 export { Monitor } from './monitor/index.js'
 export { Logger } from './logger/index.js'
 
