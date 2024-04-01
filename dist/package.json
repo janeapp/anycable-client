@@ -1,6 +1,6 @@
 {
   "name": "@janeapp/anycable-client",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "description": "AnyCable JavaScript client library (browsers, React Native)",
   "type": "commonjs",
   "main": "index.cjs",
